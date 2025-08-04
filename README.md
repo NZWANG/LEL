@@ -1,1 +1,1 @@
-# LEREL: Lipschitz Continuity-constrained Emotion Recognition Ensemble Learning Based on Electroencephalography
+# LEREL: Lipschitz Continuity-constrained Emotion Recognition Ensemble Learning For Electroencephalography
