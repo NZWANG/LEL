@@ -4,7 +4,7 @@
 
 LEREL is an innovative EEG emotion recognition framework that combines Lipschitz constraints with ensemble learning strategies to enhance model stability and noise resistance, and optimizes decision-making through multi-classifier fusion, thereby significantly improving recognition accuracy. It achieves high accuracy rates of 76.43%, 83.00%, and 89.22% on the EAV, FACED, and SEED datasets respectively, demonstrating excellent performance.
 
-![alt text](LEREL.jpg)
+![LEREL](LEREL.png)
 
 # Key Features
 
