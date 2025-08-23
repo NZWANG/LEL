@@ -1,16 +1,16 @@
-# LEREL: Lipschitz Continuity-constrained Emotion Recognition Ensemble Learning For Electroencephalography
+# LEL: A Lipschitz continuity-constrained Ensemble Learning model for EEG-Based Emotion Recognition
 
 # Overview
 
-LEREL is an innovative EEG emotion recognition framework that combines Lipschitz constraints with ensemble learning strategies to enhance model stability and noise resistance, and optimizes decision-making through multi-classifier fusion, thereby significantly improving recognition accuracy. It achieves high accuracy rates of 76.43%, 83.00%, and 89.22% on the EAV, FACED, and SEED datasets respectively, demonstrating excellent performance.
+LEL is an innovative EEG emotion recognition framework that combines Lipschitz constraints with ensemble learning strategies to enhance model stability and noise resistance, and optimizes decision-making through multi-classifier fusion, thereby significantly improving recognition accuracy. It achieves high accuracy rates of 76.43%, 83.00%, and 89.22% on the EAV, FACED, and SEED datasets respectively, demonstrating excellent performance.
 
-![LEREL](LEREL.png)
+![LEL](LEL.png)
 
 # Key Features
 
 Lipschitz Constraints：Enhance model stability and generalization during training, effectively addressing EEG signal variability while improving robustness and recognition accuracy.
 Ensemble Learning Strategy：Leverages the combined strengths of multiple classifiers to reduce overfitting risks and boost the precision and robustness of emotion recognition.
-Superior Performance：LEREL delivers superior emotion recognition performance across multiple datasets, confirming the framework's effectiveness and generalizability.
+Superior Performance：LEL delivers superior emotion recognition performance across multiple datasets, confirming the framework's effectiveness and generalizability.
 
 # Modules
 
@@ -31,4 +31,4 @@ or choose an appropriate version to use.
 
 # Training & Testing
 
-python LEREL_main.py
+python LEL_main.py
