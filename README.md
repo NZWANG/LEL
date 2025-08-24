@@ -1,4 +1,4 @@
-# LEL: A Lipschitz continuity-constrained Ensemble Learning model for EEG-Based Emotion Recognition
+# LEL: A Novel Lipschitz Continuity-constrained Ensemble Learning Model for EEG-based Emotion Recognition
 
 # Overview
 
@@ -31,4 +31,18 @@ or choose an appropriate version to use.
 
 # Training & Testing
 
+```
 python LEL_main.py
+```
+
+# Citation
+If you find our codes helpful, please star our project and cite our following papers:
+
+```
+@article{gong2025lel,
+  title={LEL: A Novel Lipschitz Continuity-constrained Ensemble Learning Model for EEG-based Emotion Recognition},
+  author={Gong, Shengyu and Li, Yueyang and Kang, Zijian and Zeng, Weiming and Yan, Hongjie and Siok, Wai Ting and Wang, Nizhuan},
+  journal={arXiv preprint arXiv:2504.09156},
+  year={2025}
+}
+```
